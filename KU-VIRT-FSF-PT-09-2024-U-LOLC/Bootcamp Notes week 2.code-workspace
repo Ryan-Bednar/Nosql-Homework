@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.live-server",
+			"streetsidesoftware.code-spell-checker",
+			"naumovs.color-highlight",
+			"eamodio.gitlens",
+			"yzhang.markdown-all-in-one"
+		]
+	}
+}

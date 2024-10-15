@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "svg.preview.background": "custom"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.live-server",
+      "streetsidesoftware.code-spell-checker",
+      "naumovs.color-highlight",
+      "eamodio.gitlens",
+      "yzhang.markdown-all-in-one",
+      "esbenp.prettier-vscode",
+      "styled-components.vscode-styled-components"
+    ]
+  }
+}
