@@ -6,9 +6,12 @@
 2. from the command line interface type bun run build and then bun run start.
 3. Then Navigate to insomnia to test the api paths.
 
+
 ## Technologies Used
 
 - MongoDB
 - Express
 - Node
 
+## Example Video
+https://youtu.be/b45oQUBrrNs
